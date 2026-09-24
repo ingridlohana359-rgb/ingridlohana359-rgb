@@ -33,7 +33,7 @@ Projects focused on answering biological questions using transcriptomic and geno
 
  Reusable Tools & Pipelines
 Pipelines and computational workflows created to automate recurring bioinformatics tasks:
-* [View Genomic Surveillance Pipeline](https://github.com/ingridlohana359-rgb/Pipeline-de-Vigilan-cia-Geno-mica)
+* [View Genomic Surveillance Pipeline](https://github.com/ingridlohana359-rgb/GenomicSurveil-Pipeline)
 
 ---
 
